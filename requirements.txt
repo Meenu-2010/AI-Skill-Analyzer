@@ -1,5 +1,5 @@
-1.streamlit
-2.spaCy
-3.en_core_web_md
-4.plotly
-5.pandas
+streamlit
+spaCy
+en_core_web_md
+plotly
+pandas
