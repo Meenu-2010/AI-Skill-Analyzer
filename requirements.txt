@@ -1,2 +1,4 @@
 streamlit
 spacy
+plotly
+pandas
