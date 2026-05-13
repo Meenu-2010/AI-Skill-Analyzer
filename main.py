@@ -5,7 +5,7 @@ import pandas as pd
 
 @st.cache_resource
 def load_model():
-    return spacy.load("en_core_web_md")
+    return spacy.load("en_core_web_sm")
 
 nlp = load_model()
 
