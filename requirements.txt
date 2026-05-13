@@ -1,5 +1,5 @@
 streamlit
-spaCy
+spacy
 en_core_web_md
 plotly
 pandas
